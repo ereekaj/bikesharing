@@ -1,14 +1,14 @@
 # Citi Bike Bikesharing Analysis
 
 ## Overview of the analysis: 
-My friend Kate, and I want to open up a bike share business in Des Moines, IA.  Citi Bike in New York City shares it's rider data with the public. The purpose of this analysis is to analyze the Citi Bike data using Tableau and create visualizations to show insights to potential investors. 
+My friend Kate, and I want to open up a bike share business in Des Moines, IA.  Citi Bike in New York City shares it's rider data with the public. The purpose of this analysis is to analyze the Citi Bike data using Tableau and create visualizations to show insights to potential investors in the Des Moines market. 
 
 ## Results: 
-Here is a link to my [tableau dashboard](https://public.tableau.com/views/Challenge14_16479124062720/CitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Here is a link to my [tableau dashboard](https://public.tableau.com/views/Challenge14_16479124062720/CitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) with specific visualizations pictured below.
 
 ![image of chart for average trip duration per birth year](https://github.com/ereekaj/bikesharing/blob/main/Resources/Avg_duration_by_birthyear.png)
 
-This first chart the module work shows the average trip duration by birth date of the bike user.  Despite a few outliers in the earlier birth dates, from this chart it appears that as the birth date increases or as the age of the user decreases, the average trip duration increases. 
+This first chart from the module work shows the average trip duration by birth date of the bike user.  Despite a few outliers in the earlier birth dates, from this chart it appears that as the birth date increases or as the age of the user decreases, the average trip duration increases. 
 
 ![image for graph checkout time for users](https://github.com/ereekaj/bikesharing/blob/main/Resources/checkout_time_for_users%20.png)
 
@@ -30,7 +30,7 @@ The heatmap above shows trips by weekday per hour and also breaks it down by gen
 
 ![image for heatmap of tips per user and gender by weekday and hour](https://github.com/ereekaj/bikesharing/blob/main/Resources/user_trips_gender_weekday.png)
 
-The last heatmap breaks down user trips by gender, type of user by weekday.  It is clear that subscribers overall use the bikes more often and that male customers use the bikes more than female counterparts. 
+The last heatmap breaks down user trips by gender, type of user by weekday.  It is clear that subscribers overall use the bikes more often than customers and that male subscribers use the bikes more than female counterparts. 
 
 ## Summary: 
 
