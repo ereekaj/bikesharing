@@ -1,11 +1,9 @@
 # Citi Bike Bikesharing Analysis
 
 ## Overview of the analysis: 
-Explain the purpose of this analysis.
+My friend Kate, and I are thinking about opening up a bike share business in Des Moines, IA.  Citi Bike in New York City shares it's rider data with the public. The purpose of this analysis is to analyze the Citi Bike data using Tableau and create visualizations to show insights to get investors. 
 
 ## Results: 
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-
 Here is a link to my [tableau dashboard](https://public.tableau.com/views/Challenge14_16479124062720/CitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ![image of chart for average trip duration per birth year](https://github.com/ereekaj/bikesharing/blob/main/Resources/Avg_duration_by_birthyear.png)
@@ -26,3 +24,4 @@ Here is a link to my [tableau dashboard](https://public.tableau.com/views/Challe
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 Amount of users compared to population or amount of users compared to tourist visiters per year. 
+census data to show demographics of nyc residents and des moines residents. how many men between ages of ????
